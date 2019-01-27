@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="search_hint">Search...</string>
+    <string name="no_movies">Nenhum filme encontado</string>
+    <string name="could_not_load_movies">Não foi possível carregar filmes</string>
+    <string name="detail">Detalhe</string>
+    <string name="error">Error ao consultar Filme</string>
+</resources>
