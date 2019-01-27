@@ -3,7 +3,7 @@
 Aplicação MVP Android para consumir API de filmes.
 
 Tecnologias utilizadas:
-- Arquitetura MVP
+- Arquitetura MVP (Model View Presenter)
 - Kotlin
 - Retrofit
 - Moshi
